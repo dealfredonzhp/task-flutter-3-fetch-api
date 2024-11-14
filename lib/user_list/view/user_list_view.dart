@@ -87,8 +87,8 @@ class UserListView extends StatelessWidget {
                   ElevatedButton.icon(
                     label: const Text("Reload Data"),
                     style: ElevatedButton.styleFrom(
-                      backgroundColor: const Color.fromARGB(255, 255, 182, 193), // Soft pink
-                      foregroundColor: Colors.white,      // Warna teks dan ikon
+                      backgroundColor: const Color.fromARGB(255, 4, 147, 243), // Soft pink
+                      foregroundColor: const Color.fromARGB(255, 95, 25, 25),      // Warna teks dan ikon
                       padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 24), // Padding tombol
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(8), // Menambahkan sudut melengkung
@@ -113,7 +113,7 @@ class UserListView extends StatelessWidget {
               child: ElevatedButton.icon(
                 label: const Text("Reload Data"),
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: const Color.fromARGB(255, 255, 182, 193), // Soft pink background
+                  backgroundColor: const Color.fromARGB(255, 148, 254, 9), // Soft pink background
                 ),
                 onPressed: () =>
                     context.read<UserListCubit>().fetchUser(),

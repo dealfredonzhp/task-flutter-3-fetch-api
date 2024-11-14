@@ -9,8 +9,8 @@ class App extends StatelessWidget {
     return MaterialApp(
       title: 'Feed App',
       theme: ThemeData(
-        primarySwatch: Colors.pink,
-        scaffoldBackgroundColor: Colors.pink.shade50,
+        primarySwatch: Colors.green,
+        scaffoldBackgroundColor: const Color.fromARGB(255, 7, 228, 248),
         appBarTheme: AppBarTheme(
           backgroundColor: const Color.fromARGB(255, 131, 32, 65),
           foregroundColor: Colors.white,

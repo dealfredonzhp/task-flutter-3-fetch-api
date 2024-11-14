@@ -69,7 +69,7 @@ class UserDetailPage extends StatelessWidget {
                 // Logika menghapus post saat ini
               },
               style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.red.shade100, // Warna merah muda untuk tombol hapus
+                backgroundColor: const Color.fromARGB(255, 161, 4, 19), // Warna merah muda untuk tombol hapus
                 foregroundColor: Colors.red.shade900, // Warna merah tua untuk teks
                 padding: const EdgeInsets.symmetric(vertical: 12),
               ),
