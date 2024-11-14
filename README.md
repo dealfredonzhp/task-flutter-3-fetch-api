@@ -2,20 +2,15 @@
 
 ## Reload Data
 
-![Screenshot 2024-11-13 142111](https://github.com/user-attachments/assets/bbb643c8-9053-48d5-af39-8d8fd0ced559)
-
+![image](https://github.com/user-attachments/assets/a3bae2a2-b037-48ec-b024-45b844491c84)
 
 ## User List
-
-![Screenshot 2024-11-13 142130](https://github.com/user-attachments/assets/7cff6505-8039-48a7-a5fa-8057a47a456b)
-
+![image](https://github.com/user-attachments/assets/3008fce5-bf77-4ba5-9c03-9f5b597be76b)
 
 ## Delete Data
 
-![Screenshot 2024-11-13 142143](https://github.com/user-attachments/assets/029d2b32-b45a-470b-8a88-aaa5b1d4fcaf)
-
+![image](https://github.com/user-attachments/assets/b7063c53-91ad-45f0-850f-e4e1a945cdf0)
 
 ## Detail Page
 
-![Screenshot 2024-11-13 142208](https://github.com/user-attachments/assets/dd437c9a-fab2-422a-861f-a1cdab501f20)
-
+![image](https://github.com/user-attachments/assets/ff162e22-e44d-477a-93e1-b45da0bf4522)
